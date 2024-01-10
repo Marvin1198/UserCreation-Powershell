@@ -1,0 +1,5 @@
+# PowerShell Ignore
+*.ps1.xml
+*.ps1.txt
+*.ps1.user
+*.ps1.vspscc
