@@ -16,7 +16,7 @@ This PowerShell script automates the creation of user accounts in Active Directo
 
 ## Usage
 
-1. **Modify Script Variables:** Update the script variables such as `$FacilitiesOU` and `$OU` to match your specific domain structure.
+1. **Modify Script Variables:** Update the script variables such as `$DepartmentsOU` and `$OU` to match your specific domain structure.
 
 2. **Run the Script:** Execute the script in a PowerShell environment with the necessary permissions.
 
